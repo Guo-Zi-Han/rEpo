@@ -1,6 +1,6 @@
 # AGENTS.md
 
-## Status
+##状态
 
 Empty repository — no source code, build config, or dependencies yet.
 
@@ -11,3 +11,5 @@ Empty repository — no source code, build config, or dependencies yet.
   - Project structure and entrypoints
   - Framework and toolchain details
   - Any repo-specific conventions
+  - This is the first connext
+  - 
